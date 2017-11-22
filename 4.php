@@ -8,3 +8,7 @@
 ECHO 4;
 
 echo 66;
+
+echo 99;
+
+echo 10;

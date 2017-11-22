@@ -1,0 +1,49 @@
+Index: 3.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 3.php	(revision )
++++ 3.php	(revision )
+@@ -0,0 +1,8 @@
++<?php
++/**
++ * Created by PhpStorm.
++ * User: Administrator
++ * Date: 2017/11/22 0022
++ * Time: 下午 5:16
++ */
++ECHO 3;
+\ No newline at end of file
+Index: 4.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 4.php	(revision )
++++ 4.php	(revision )
+@@ -0,0 +1,8 @@
++<?php
++/**
++ * Created by PhpStorm.
++ * User: Administrator
++ * Date: 2017/11/22 0022
++ * Time: 下午 5:16
++ */
++ECHO 4;
+\ No newline at end of file
+Index: local_history.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- local_history.patch	(revision )
++++ local_history.patch	(revision )
+@@ -0,0 +1,7 @@
++Index: 2.html
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++--- 2.html	(revision )
+++++ 2.html	(revision )
