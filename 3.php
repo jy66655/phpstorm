@@ -6,11 +6,6 @@
  * Time: 下午 5:16
  */
 ECHO 5;
-
-echo 999;
-
-
-
 ECHO 3;
 
 ECHO 3;
