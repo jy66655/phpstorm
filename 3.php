@@ -10,10 +10,7 @@ ECHO 5;
 
 echo 123;
 
-
-
-
-echo 22;
+echo 888888888888888888;
 ECHO 3;
 
 ECHO 3;
